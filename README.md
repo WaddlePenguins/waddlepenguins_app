@@ -1,6 +1,6 @@
-# Cozy Penguin Desktop
+# Waddle Penguins Desktop
 
-# This client has been archived, and no longer connects to Cozy Penguin's game servers -  as the game has closed. Feel free to use this client for your own CPPS, as long as you attribute AltoDev.
+# This client has been originaly created for Cozy Penguin, and it no longer connects to Cozy Penguin's game servers -  as the game has closed. You can feel free to use this client for your own CPPS, as long as you attribute AltoDev.
 This is the web-based client for Cozy Penguin, solving the problem of Flash ending support in 2020, resulting in obtaining and using Flash harder. This client has many functions, including:
 - Automatically clearing the users' cache when the application is launched (parties and features update instantly!)
 - Discord Rich Presence support. Have a shiny Discord status when playing
