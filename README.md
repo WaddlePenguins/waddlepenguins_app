@@ -9,8 +9,7 @@ This is the web-based client for Cozy Penguin, solving the problem of Flash endi
 
 This is heavily inspired by Penguin World's client. We reccommend creating a separate play page, ~~eg (https://play.cozypenguin.net/desktop)~~ so that Flash is fullscreen.
 # User Installation
-~~Visit https://cozypenguin.net/downloads and follow the instructions for your PC~~
-Alternatively visit the releases page - https://github.com/Cozy-Penguin/client/releases
+Visit https://waddlepenguins.tk/play/ and follow the instructions for your PC
 # Development Installation
 `git clone https://github.com/Cozy-Penguin/client`
 
