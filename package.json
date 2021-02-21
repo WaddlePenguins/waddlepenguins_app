@@ -10,10 +10,17 @@
     "appveyor-build": "electron-builder build --win --publish onTagOrDraft"
   },
   "bugs": {
+<<<<<<< HEAD
+    "url": "https://github.com/WaddlePenguins/waddlepenguins_app/issues"
+  },
+  "homepage": "https://github.com/WaddlePenguins/waddlepenguins_app#readme",
+  "repository": "https://github.com/WaddlePenguins/waddlepenguins_app",
+=======
     "url": "https://github.com/cozy-penguin/client/issues"
   },
   "homepage": "https://github.com/cozy-penguin/client#readme",
   "repository": "https://github.com/cozy-penguin/client",
+>>>>>>> parent of 176b50a (Added all files.)
   "author": "Waddle Penguins / AltoDev (the original version)",
   "license": "CC0-1.0",
   "devDependencies": {
