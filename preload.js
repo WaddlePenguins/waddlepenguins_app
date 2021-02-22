@@ -12,7 +12,7 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 */
 
-function redirect(){window.location.href = 'https://waddlepenguins.tk/play/client/';}
+function redirect(){window.location.href = 'https://waddlepenguins.tk/launcher/';}
 window.addEventListener('DOMContentLoaded', () => {
   var url = window.location.href;
     if(url.includes('waddlepenguins.tk') == false){redirect();}

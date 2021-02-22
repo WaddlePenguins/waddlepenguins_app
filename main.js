@@ -43,7 +43,7 @@ function createWindow () {
 
   mainWindow.setMenu(null);
   clearCache();
-  mainWindow.loadURL('https://waddlepenguins.tk/play/client/');
+  mainWindow.loadURL('https://waddlepenguins.tk/launcher/');
 
   // RICH PRESENCE START
   const clientId = '796476157415522354'; DiscordRPC.register(clientId); const rpc = new DiscordRPC.Client({ transport: 'ipc' }); const startTimestamp = new Date();
