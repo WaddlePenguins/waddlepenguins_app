@@ -1,15 +1,17 @@
 # Waddle Penguins Desktop
 
 # This client has been originaly created for Cozy Penguin, and it no longer connects to Cozy Penguin's game servers -  as the game has closed. You can feel free to use this client for your own CPPS, as long as you attribute AltoDev.
+
+# This client has stopped working, due to Waddle Penguins Classic closure. Thank you for playing.
 The app has many functions such as:
 - Automatically clearing the users' cache when the application is launched (parties and features update instantly!)
 - Discord Rich Presence support. Have a shiny Discord status when playing
 - Embedded (Pepper) Flash Player. There's no need to install Flash manually.
 - Automatic client updates to add new fuctionality
 # User Installation
-Visit https://waddlepenguins.tk/play/ and follow the instructions for your PC
+Visit ~~https://waddlepenguins.tk/play/~~ and follow the instructions for your PC
 # Development Installation
-`git clone https://github.com/Cozy-Penguin/client`
+`git clone https://github.com/waddlepenguins/waddlepenguins_app`
 
 `npm install`
 
