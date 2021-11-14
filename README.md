@@ -2,7 +2,7 @@
 
 # This client has been originaly created for Cozy Penguin, and it no longer connects to Cozy Penguin's game servers -  as the game has closed. You can feel free to use this client for your own CPPS, as long as you attribute AltoDev.
 
-# This client has stopped working, due to Waddle Penguins Classic closure. Thank you for playing.
+# This client does not connect to Waddle Penguins, due to Waddle Penguins Classic closure. Thank you for playing. You can use this client for you CPPS,  as long as you attribute AltoDev.
 The app has many functions such as:
 - Automatically clearing the users' cache when the application is launched (parties and features update instantly!)
 - Discord Rich Presence support. Have a shiny Discord status when playing
