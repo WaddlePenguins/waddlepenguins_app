@@ -43,9 +43,11 @@ function createWindow () {
 
   mainWindow.setMenu(null);
   clearCache();
-  mainWindow.loadURL('https://waddlepenguins.tk/launcher/');
+  mainWindow.loadURL('https://waddlepenguins.tk/launcher/'); // Replace https://waddlepenguins.tk/launcher/ with your play page (ex. play.your.cpps) or a landing page like a home page.
 
   // RICH PRESENCE START
+  
+  // Change 796476157415522354 with your own application ID. You can register an application at https://discord.com/developers/applications. Remember to change waddlepenguins.tk in details. Otherwise your Discord RPC will show it as the detail link.
   const clientId = '796476157415522354'; DiscordRPC.register(clientId); const rpc = new DiscordRPC.Client({ transport: 'ipc' }); const startTimestamp = new Date();
   rpc.on('ready', () => {
     rpc.setActivity({
