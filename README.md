@@ -68,8 +68,18 @@ Adopted by Waddle Penguins and adapted for waddlepenguins.tk.
 Licensed under the Creative Commons Zero v1.0 Universal license.
 
 If you wish to develop a client for your own CPPS using this code you are required to leave the acknowledgements here and inside the client unchanged.
-## Updates & Support
+## Updates
 
-This application is no longer maintained or updated by the publisher. Issues created might not be fixed, bug fixes will not be released. Please research the dependencies and update them if needed.
+<b>This application is no longer maintained or updated by the publisher. You are responsible for maintaining the application if you clone, build and publish it.</b>
 
 Application last updated: Feb 22, 2021
+
+Safety patches last applied: Jul 12, 2024 (extended one time update)
+
+## Support
+
+Application support status: ended on November 14, 2021
+
+Waddle Penguins (now Waddle Penguins Island) does not provide any support for this application anymore.
+
+Our partner [Club Penguin Atake](https://www.cpatake.boo/) maintains its client under an open-source license. If you're looking for an actively managed source, please visit [@fullmoondev/cpatake_app](https://github.com/fullmoondev/cpatake_app).
