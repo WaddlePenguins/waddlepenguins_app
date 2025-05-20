@@ -37,6 +37,7 @@ To create a client for your CPPS using this source you will need: Git, Node.js.
 
 3. Edit the files. You need to:
 - Replace the URL of mainWindow.loadURL in main.js to your own play page or landing page,
+- Replace the URLs in preload.js, otherwise it will keep force reloading your client in an attempt to connect to waddlepenguins.tk.
 - Replace the clientId and details of the Discord RPC in main.js. You will find helpful notes inside the file.
 - Change "waddlepenguins" in name in files: package.json, package-lock.json and "Desktop client for waddlepenguins.tk" in description in package.json. You are required to leave "Created by AltoDev" intact.
 - Change appId ("com.waddlepenguins.desktop") and product name ("Waddle Penguins Desktop") in package.json to your CPPS.
